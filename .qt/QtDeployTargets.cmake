@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_SocialAppNew_FILE /home/doubleroote/SocialAppNew/SocialAppNew)
+set(__QT_DEPLOY_TARGET_SocialAppNew_TYPE EXECUTABLE)

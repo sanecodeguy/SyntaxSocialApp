@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/images/posts/01.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/01.jpg</file>
+    <file alias="qml/images/posts/02.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/02.jpg</file>
+    <file alias="qml/images/posts/03.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/03.jpg</file>
+    <file alias="qml/images/posts/04.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/04.jpg</file>
+    <file alias="qml/images/posts/a1.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/a1.jpg</file>
+    <file alias="qml/images/posts/a2.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/a2.jpg</file>
+    <file alias="qml/images/posts/a3.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/a3.jpg</file>
+    <file alias="qml/images/posts/a4.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/a4.jpg</file>
+    <file alias="qml/images/posts/f1.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/f1.jpg</file>
+    <file alias="qml/images/posts/f3.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/f3.jpg</file>
+    <file alias="qml/images/posts/f2.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/f2.jpg</file>
+    <file alias="qml/images/posts/f4.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/f4.jpg</file>
+    <file alias="qml/images/posts/s1.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/s1.jpg</file>
+    <file alias="qml/images/posts/s2.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/s2.jpg</file>
+    <file alias="qml/images/posts/s3.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/s3.jpg</file>
+    <file alias="qml/images/posts/r1.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/r1.jpg</file>
+    <file alias="qml/images/posts/r2.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/r2.jpg</file>
+    <file alias="qml/images/posts/r3.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/r3.jpg</file>
+    <file alias="qml/images/posts/r4.jpg">/home/doubleroote/SocialAppNew/qml/images/posts/r4.jpg</file>
+  </qresource>
+</RCC>
+

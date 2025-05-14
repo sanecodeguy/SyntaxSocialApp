@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/main.qml">/home/doubleroote/SocialAppNew/qml/main.qml</file>
+    <file alias="qml/screens/AuthScreen.qml">/home/doubleroote/SocialAppNew/qml/screens/AuthScreen.qml</file>
+    <file alias="qml/screens/HomeScreen.qml">/home/doubleroote/SocialAppNew/qml/screens/HomeScreen.qml</file>
+    <file alias="qml/screens/Discover.qml">/home/doubleroote/SocialAppNew/qml/screens/Discover.qml</file>
+    <file alias="qml/screens/Friends.qml">/home/doubleroote/SocialAppNew/qml/screens/Friends.qml</file>
+    <file alias="qml/screens/Profile.qml">/home/doubleroote/SocialAppNew/qml/screens/Profile.qml</file>
+    <file alias="qml/ExpandableBottomBar/NavigationBar.qml">/home/doubleroote/SocialAppNew/qml/ExpandableBottomBar/NavigationBar.qml</file>
+  </qresource>
+</RCC>
+

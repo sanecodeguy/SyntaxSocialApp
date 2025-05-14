@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file alias="qml/screens/icons/home.png">/home/doubleroote/SocialAppNew/qml/screens/icons/home.png</file>
+    <file alias="qml/screens/icons/search.png">/home/doubleroote/SocialAppNew/qml/screens/icons/search.png</file>
+    <file alias="qml/screens/icons/add.png">/home/doubleroote/SocialAppNew/qml/screens/icons/add.png</file>
+    <file alias="qml/screens/icons/heart.png">/home/doubleroote/SocialAppNew/qml/screens/icons/heart.png</file>
+    <file alias="qml/screens/icons/profile.png">/home/doubleroote/SocialAppNew/qml/screens/icons/profile.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,26 @@
+{
+    "users": {
+        "coderizz": [
+            "rizz"
+        ],
+        "doubleroote": [
+            "rizz"
+        ],
+        "qtdev": [
+            "rizz"
+        ],
+        "rizvi": [
+            "rizz"
+        ],
+        "rizz": [
+            "rizvi",
+            "doubleroote",
+            "qtdev",
+            "coderizz",
+            "sim"
+        ],
+        "sim": [
+            "rizz"
+        ]
+    }
+}

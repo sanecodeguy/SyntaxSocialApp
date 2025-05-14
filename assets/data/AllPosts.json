@@ -1,0 +1,74 @@
+[
+    {
+        "comments": 32,
+        "date": "2023-06-15",
+        "description": "abnormal dump",
+        "id": "PT0879",
+        "image": "qrc:/qml/images/posts/a4.jpg",
+        "likes": 189,
+        "username": "sim"
+    },
+    {
+        "comments": 32,
+        "date": "2023-06-15",
+        "description": "idk ahahhaha",
+        "id": "PT00983",
+        "image": "qrc:/qml/images/posts/r4.jpg",
+        "likes": 189,
+        "username": "rizvi"
+    },
+    {
+        "comments": 32,
+        "date": "2023-06-15",
+        "description": "got no fuel",
+        "id": "PT0239",
+        "image": "qrc:/qml/images/posts/a3.jpg",
+        "likes": 189,
+        "username": "huzz"
+    },
+    {
+        "comments": 45,
+        "date": "2023-06-10",
+        "description": "world war 3?",
+        "id": "PT0088",
+        "image": "qrc:/qml/images/posts/a2.jpg",
+        "likes": 342,
+        "username": "rizz"
+    },
+    {
+        "comments": 0,
+        "date": "2025-05-14",
+        "description": "meow",
+        "id": "PT3fdc9454-6f81-4d12-93f0-115a6b590aec",
+        "image": "file:///home/doubleroote/SocialAppNew/qml/images/posts/a2.jpg",
+        "likes": 0,
+        "username": "rizz"
+    },
+    {
+        "comments": 0,
+        "date": "2025-05-14",
+        "description": "wew",
+        "id": "PT9a465c24-d956-494b-b963-cca75c1b5198",
+        "image": "file:///home/doubleroote/SocialAppNew/qml/images/posts/a4.jpg",
+        "likes": 0,
+        "username": "rizz"
+    },
+    {
+        "comments": 45,
+        "date": "2023-06-10",
+        "description": "New QML components coming soon!",
+        "id": "PT005",
+        "image": "qrc:/qml/images/posts/01.jpg",
+        "likes": 342,
+        "username": "qtdev"
+    },
+    {
+        "comments": 32,
+        "date": "2023-06-15",
+        "description": "Workshop next week - register now!",
+        "id": "PT006",
+        "image": "qrc:/qml/images/posts/02.jpg",
+        "likes": 189,
+        "username": "qtdev"
+    }
+]

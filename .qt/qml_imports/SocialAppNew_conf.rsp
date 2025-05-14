@@ -1,0 +1,14 @@
+-rootPath
+/home/doubleroote/SocialAppNew
+-cmake-output
+-output-file
+/home/doubleroote/SocialAppNew/.qt/qml_imports/SocialAppNew_conf.cmake
+-importPath
+/home/doubleroote/SocialAppNew
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/doubleroote/SocialAppNew/.qt/rcc/qml_files.qrc
+/home/doubleroote/SocialAppNew/.qt/rcc/post_images.qrc
+/home/doubleroote/SocialAppNew/.qt/rcc/json_data.qrc
+/home/doubleroote/SocialAppNew/.qt/rcc/tab_icons.qrc

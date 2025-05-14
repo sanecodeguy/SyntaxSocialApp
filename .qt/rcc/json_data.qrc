@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="assets/data/AllPages.json">/home/doubleroote/SocialAppNew/assets/data/AllPages.json</file>
+    <file alias="assets/data/liked_pages.json">/home/doubleroote/SocialAppNew/assets/data/liked_pages.json</file>
+  </qresource>
+</RCC>
+
