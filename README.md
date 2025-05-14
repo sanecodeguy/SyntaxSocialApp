@@ -97,7 +97,10 @@ cmake -G Ninja -B build
 
     Open a Pull Request
 
-📜 License
+## 🛠️ Components & Credits
 
-MIT
-<p align="center"> Made with ❤️ by <a href="https://github.com/sanecodeguy">Syed Al Rizvi</a> (sanecodeguy) </p> ```
+### Expandable Bottom Bar
+The navigation bar component is based on:
+- **[QML-UI-Animations](https://github.com/Qt-QML/QML-UI-Animations/tree/master)** (QML implementation)
+- Original concept from **[ExpandableBottomBar](https://github.com/st235/ExpandableBottomBar)** (Android/Kotlin)
+<p align="center"> Made with ❤️ by <a href="https://github.com/sanecodeguy">Syed Al Rizvi</a> (sanecodeguy) </p> 
